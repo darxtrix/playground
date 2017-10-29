@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "Bluetooth speaker",
+        "price" : "Rs 1000",
+        "image" : "https://images-na.ssl-images-amazon.com/images/I/81i2KViy%2BrL._SY550_.jpg"
+    },
+    {
+        "name" : "Cricket Bat",
+        "price" : "Rs 8000",
+        "image" : "https://rukminim1.flixcart.com/image/1408/1408/j391ifk0/bat/x/c/f/900-1100-harrow-kelvin-kb42-mdn-original-imaeagcfgb7xswe9.jpeg?q=90"
+    },
+    {
+        "name" : "MacBook ",
+        "price" : "Rs 90000",
+        "image" : "https://store.storeimages.cdn-apple.com/4974/as-images.apple.com/is/image/AppleInc/aos/published/images/M/AC/MACBOOKPRO/MACBOOKPRO?wid=1879&hei=1061&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=6xyk93"
+    }
+]
